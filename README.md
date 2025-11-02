@@ -10,6 +10,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="80" height="80"/>
@@ -19,7 +21,7 @@
 
 ### 🧠 About Me
 💡 I'm an **Aspiring Cloud & DevOps Engineer** with a strong foundation in **Python scripting**, **AWS Cloud**, and **CI/CD automation**.  
-⚙️ Skilled in **Docker, Jenkins, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
+⚙️ Skilled in **Docker, Kubernetes, Jenkins, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
 ☁️ Passionate about cloud infrastructure, automation, and scalable system design.  
 📈 Always learning and improving my DevOps toolkit to streamline development workflows.
 
@@ -41,6 +43,7 @@
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
