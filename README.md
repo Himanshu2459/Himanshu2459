@@ -15,13 +15,18 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="80" height="80"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 💡 I'm an **Aspiring Cloud & DevOps Engineer** with a strong foundation in **Python scripting**, **AWS Cloud**, and **CI/CD automation**.  
-⚙️ Skilled in **Docker, Kubernetes, Jenkins, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
+⚙️ Skilled in **Docker, Kubernetes, Jenkins, Prometheus, Grafana, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
+📊 Experienced in **Kubernetes monitoring** using **Prometheus & Grafana** with dashboards, alerts, and metric scraping.  
 ☁️ Passionate about cloud infrastructure, automation, and scalable system design.  
 📈 Always learning and improving my DevOps toolkit to streamline development workflows.
 
@@ -46,6 +51,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,8 +72,8 @@
 ---
 
 ### ⚙️ Fun Fact
-> “I use **Python** the most to automate, deploy, and monitor —  
-> because every great DevOps pipeline deserves some automation magic 🐍✨.”
+> “Monitoring + Automation = A DevOps Engineer’s superpower ⚡  
+> Prometheus and Grafana help me see everything before it breaks.”
 
 ---
 
