@@ -24,7 +24,7 @@
 ---
 
 ### 🧠 About Me
-💡 I'm an **Aspiring Cloud & DevOps Engineer** with a strong foundation in **Python scripting**, **AWS Cloud**, and **CI/CD automation**.  
+💡 I'm an **Cloud & DevOps Engineer** with a strong foundation in **Python scripting**, **AWS Cloud**, and **CI/CD automation**.  
 ⚙️ Skilled in **Docker, Kubernetes, Jenkins, Prometheus, Grafana, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
 📊 Experienced in **Kubernetes monitoring** using **Prometheus & Grafana** with dashboards, alerts, and metric scraping.  
 ☁️ Passionate about cloud infrastructure, automation, and scalable system design.  
