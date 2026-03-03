@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<h3 align="center">🚀 A Passionate Cloud & DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center">🚀 Cloud & DevOps Engineer | AWS & Azure | Terraform | Kubernetes | CI/CD</h3>
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="90" height="90"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" alt="azure" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;
@@ -24,29 +30,34 @@
 ---
 
 ### 🧠 About Me
-💡 I'm an **Cloud & DevOps Engineer** with a strong foundation in **Python scripting**, **AWS Cloud**, and **CI/CD automation**.  
-⚙️ Skilled in **Docker, Kubernetes, Jenkins, Prometheus, Grafana, GitHub Actions, Linux, and MySQL** to build efficient and reliable deployment pipelines.  
-📊 Experienced in **Kubernetes monitoring** using **Prometheus & Grafana** with dashboards, alerts, and metric scraping.  
-☁️ Passionate about cloud infrastructure, automation, and scalable system design.  
-📈 Always learning and improving my DevOps toolkit to streamline development workflows.
+💡 I'm a **Cloud & DevOps Engineer** with strong expertise in **Python & Bash scripting**, **AWS & Azure Cloud**, and **CI/CD automation**.  
+⚙️ Skilled in **Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Prometheus, Grafana, Linux, and MySQL** to build scalable and reliable infrastructure.  
+📜 Experienced in writing **Bash automation scripts** for deployments, backups, log parsing, and system monitoring.  
+📊 Hands-on with **Infrastructure as Code (IaC)** using Terraform and multi-cloud deployments.  
+☁️ Passionate about automation, monitoring, and scalable system architecture.
 
 ---
 
 ### 📫 How to reach me
-- **Email:** [Himanshu.sharmars12@gmail.com](mailto:Himanshu.sharmars12@gmail.com)
-- **LinkedIn:** [Himanshu Sharma](https://www.linkedin.com/in/himanshu-sharma-2b6b90201/)
-- **GitHub:** [Himanshu2459](https://github.com/Himanshu2459)
+- **Email:** Himanshu.sharmars12@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/himanshu-sharma-2b6b90201/  
+- **GitHub:** https://github.com/Himanshu2459  
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Languages
+#### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -61,20 +72,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu2459&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu2459&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu2459&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu2459&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu2459&theme=tokyonight" alt="Himanshu's streak stats" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu2459&theme=tokyonight" width="80%"/>
 </p>
 
 ---
 
-### ⚙️ Fun Fact
-> “Monitoring + Automation = A DevOps Engineer’s superpower ⚡  
-> Prometheus and Grafana help me see everything before it breaks.”
+### ⚡ DevOps Philosophy
+> "Infrastructure as Code + Monitoring + Automation = Reliable & Scalable Systems 🚀"
 
 ---
 
-<p align="center">💼 Open to DevOps & Cloud Engineering Roles | 🌍 Let's build something scalable together!</p>
+<p align="center">💼 Open to Cloud & DevOps Engineering Roles | 🌍 Let's build scalable infrastructure together!</p>
